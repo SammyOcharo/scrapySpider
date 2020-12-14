@@ -5,6 +5,7 @@
 
 
 # useful for handling different item types with a single interface
+#scrapped data is stored on mysql
 from itemadapter import ItemAdapter
 import mysql.connector
 
